@@ -1,0 +1,18 @@
+# Mac files
+.DS_Store
+
+# Thumbnails
+._*
+
+# Compressed
+*.gz
+*.tar
+*.tgz
+
+# Logs
+logs
+*.log
+
+# Dev files
+*.dev
+*.short
